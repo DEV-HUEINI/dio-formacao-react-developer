@@ -9,7 +9,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <div style="display: inline-flex; gap: 10px; align-items: center;">
 
 <a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
-<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">www.hueini.com.br</span>
+<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;"> 🌐 www.hueini.com.br</span>
 </a>
 
 <br>
