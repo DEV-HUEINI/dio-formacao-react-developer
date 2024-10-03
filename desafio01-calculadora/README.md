@@ -1,7 +1,15 @@
 
-![Hueini David]([https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true](https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true))
 
 
+![Imagem da Calculadora](https://github.com/Hueini/images/blob/main/HD.PNG?raw=true)
+
+
+<div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
+
+<h1 align="center" style="color: #1e52cc; align-items: center;">
+  <img src="[https://github.com/Hueini/images/blob/main/HD.PNG?raw=true](https://raw.githubusercontent.com/Hueini/images/refs/heads/main/HD-CIRCLE.png)" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+  Hueini David
+</h1>
 
 
 
