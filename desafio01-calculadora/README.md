@@ -13,6 +13,8 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
       DIO
     </span>
   </a>
+
+  <br>
   
    <a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
     <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">
