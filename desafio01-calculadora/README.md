@@ -7,9 +7,6 @@ Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligên
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento adquirido. Espero que goste e fique à vontade para entrar em contato comigo...
 
-
-## Conecte-se comigo
-
 <div style="display: inline-flex; gap: 10px; align-items: center;">
  <a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
     <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">
@@ -35,11 +32,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 [![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
 
 
-
-
-Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes na AWS" da DIO em parceria com a Amazon AWS.
-
-# Calculadora em React
+## Calculadora em React
 
 Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web, como parte do curso da **DIO - Formação React Developer**. 
 
