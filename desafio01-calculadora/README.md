@@ -5,7 +5,7 @@
 
 
 <h1 align="center" style="color: #1e52cc;">
-  <img src="https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+  <img src="https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true" alt="Imagem Circular" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;">
   Hueini David
 </h1>
 
