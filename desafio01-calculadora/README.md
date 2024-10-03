@@ -1,15 +1,6 @@
 
 ## 🌐 >_ Quem Sou Eu /?
 
-<div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
-
-<h1 align="center" style="color: #1e52cc; align-items: center;">
-  <img src="https://github.com/Hueini/images/blob/main/HD.PNG?raw=true" alt="Imagem Circular" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;">
-  Hueini David
-</h1>
-
-
-
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligencia Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento adquirido. Espero que goste e fique à vontade para entrar em contato comigo...
