@@ -6,17 +6,8 @@
 
 <h1 style="color: #1e52cc; text-align: left;">
   <img src="https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true" alt="Imagem Circular" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px; vertical-align: middle;">
-  Hueini David
+  🌐 >_ Hueini David /?
 </h1>
-
-
-
-
-
-
-### Olá Meu nome é ***Hueini David***,
-
-## 🌐 >_ Quem Sou Eu /?
 
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
