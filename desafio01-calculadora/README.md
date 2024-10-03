@@ -1,4 +1,4 @@
-## 🌐 >_ Hueini David /?
+## >_ Hueini David /?
 
 Olá meu nome é Hueini David,
 
