@@ -1,9 +1,50 @@
 
 ## 🌐 >_ Quem Sou Eu /?
 
-Olá, meu nome é Hueini David.
+<img src="https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true" alt="Cabeçalho" style="height: 50px; width: 100%;"/> -->
 
-Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
+<div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
+
+<h1 align="center" style="color: #1e52cc; align-items: center;">
+  <img src="https://github.com/Hueini/images/blob/main/HD.PNG?raw=true" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+  Hueini David
+</h1>
+
+
+
+Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligencia Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
+
+Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento adquirido. Espero que goste e fique à vontade para entrar em contato comigo...
+
+
+## Conecte-se comigo
+
+<div style="display: inline-flex; gap: 10px; align-items: center;">
+ <a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">
+      <img src="https://raw.githubusercontent.com/Hueini/images/261e2442dcb9c43f7add7817c505e52e60703b28/dio.svg" alt="DIO" style="height: 12px; margin-right: 8px; ">
+      DIO
+    </span>
+  </a>
+  
+   <a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">
+      <img src="https://avatars.githubusercontent.com/u/162515101?v=4&size=64" alt="DIO" style="height: 12px; margin-right: 8px; ">
+      Site
+    </span>
+  </a>
+  
+</div>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hueini-david-917b7230b)
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@DEV-HUEINI)
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-HUEINI)
+[![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
+
+
+
 
 Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes na AWS" da DIO em parceria com a Amazon AWS.
 
