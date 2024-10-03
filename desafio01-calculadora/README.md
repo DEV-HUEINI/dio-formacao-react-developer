@@ -11,7 +11,9 @@ Este projeto é uma demonstração prática das habilidades adquiridas no curso 
 
 Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web, como parte do curso da **DIO - Formação React Developer**. 
 
-![Imagem da Calculadora]([https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/tree/main/desafio01-calculadora/public/Calculadora.png](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true))
+![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
+
+
 
 ## Aprendizados
 
