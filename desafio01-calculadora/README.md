@@ -18,9 +18,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
 <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">DIO Hueini Profile</span>
 </a>
-
-
-  
+ 
 </div>
 
 <br>
@@ -31,7 +29,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 [![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
 
 
-## Calculadora em React
+## >_ Calculadora em React
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
 
