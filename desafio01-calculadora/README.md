@@ -36,15 +36,16 @@ Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi
 ![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
 
 ## Índice
+
 <details open>
-  <summary>Clique para expandir</summary>
-  <ul>
-    <li><a href="#sobre-o-projeto">1. Sobre o Projeto</a></li>
-    <li><a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a></li>
-    <li><a href="#como-executar-o-projeto">3. Como Executar o Projeto</a></li>
-    <li><a href="#funcionalidades">4. Funcionalidades</a></li>
-    <li><a href="#estrutura-do-projeto">5. Estrutura do Projeto</a></li>
-  </ul>
+  <summary><h2>Índice</h2></summary>
+  <table>
+    <tr><td>1.</td><td> <a href="#sobre-o-projeto">1. Sobre o Projeto</a> </td></tr>
+    <tr><td>2.</td><td> <a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a> </td></tr>
+    <tr><td>3.</td><td> <a href="#como-executar-o-projeto">3. Como Executar o Projeto</a> </td></tr>
+    <tr><td>4.</td><td> <a href="#funcionalidades">4. Funcionalidades</a> </td></tr>
+    <tr><td>5.</td><td> <a href="#estrutura-do-projeto">5. Estrutura do Projeto</a> </td></tr>
+  </table>
 </details>
 
 ## 1. Sobre o Projeto
