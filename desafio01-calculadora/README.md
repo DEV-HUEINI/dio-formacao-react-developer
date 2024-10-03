@@ -11,7 +11,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
    <a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
     <span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">
       <img src="https://avatars.githubusercontent.com/u/162515101?v=4&size=64" alt="DIO" style="height: 12px; margin-right: 8px; ">
-      Site
+      Portifólio: www.hueini.com.br
     </span>
   </a>
 
