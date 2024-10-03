@@ -1,6 +1,8 @@
 
 ## 🌐 >_ Quem Sou Eu /?
 
+Olá Meu nome é **Hueini David**
+
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligencia Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento adquirido. Espero que goste e fique à vontade para entrar em contato comigo...
