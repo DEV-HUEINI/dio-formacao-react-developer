@@ -33,15 +33,12 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## Calculadora em React
 
-Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web, como parte do curso da **DIO - Formação React Developer**. 
+Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
 
 ![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
 
 
-
 ## Aprendizados
-
-
 
 ## Índice
 <details open>
