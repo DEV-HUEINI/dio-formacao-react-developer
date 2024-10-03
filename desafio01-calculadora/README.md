@@ -4,10 +4,11 @@
 
 
 
-<h1 align="center" style="color: #1e52cc; align-items: center;">
-  <img src="[https://github.com/Hueini/images/blob/main/HD-CIRCLE.PNG?raw=true](https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true)" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+<h1 align="center" style="color: #1e52cc;">
+  <img src="https://github.com/Hueini/images/blob/main/HD-CIRCLE.png?raw=true" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
   Hueini David
 </h1>
+
 
 
 
