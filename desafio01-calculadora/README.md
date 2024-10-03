@@ -37,9 +37,6 @@ Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi
 
 ![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
 
-
-## Aprendizados
-
 ## Índice
 <details open>
   <summary>Clique para expandir</summary>
