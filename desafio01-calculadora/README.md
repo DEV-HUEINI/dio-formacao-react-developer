@@ -8,71 +8,86 @@ Sou formado em Ciências da Computação e atualmente estou cursando Pós-Gradua
 
 Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes na AWS" da DIO em parceria com a Amazon AWS.
 
-# Calculadora
+# Calculadora em React
 
-Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web.
+Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web, como parte do curso da **DIO - Formação React Developer**. 
 
 ![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/tree/main/desafio01-calculadora/public/Calculadora.png)
 
 ## Aprendizados
 
-Neste projeto, aprendemos:
 
-### Configuração de Ambiente React
-![Imagem do bootcamp](link-da-imagem)
-Curso: Configuração de Ambiente React  
-Nível: Básico  
-Duração: 1 hora  
-[Baixar Certificado](link-do-certificado)
 
-### Páginas Web com HTML
-![Imagem do bootcamp](link-da-imagem)
-Curso: Páginas Web com HTML  
-Nível: Básico  
-Duração: 2 horas  
-[Baixar Certificado](link-do-certificado)
+## Índice
+<details open>
+  <summary>Clique para expandir</summary>
+  <ul>
+    <li><a href="#sobre-o-projeto">1. Sobre o Projeto</a></li>
+    <li><a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a></li>
+    <li><a href="#como-executar-o-projeto">3. Como Executar o Projeto</a></li>
+    <li><a href="#funcionalidades">4. Funcionalidades</a></li>
+    <li><a href="#estrutura-do-projeto">5. Estrutura do Projeto</a></li>
+  </ul>
+</details>
 
-### Estilizando Páginas com CSS
-![Imagem do bootcamp](link-da-imagem)
-Curso: Estilizando Páginas com CSS  
-Nível: Básico  
-Duração: 1 hora  
-[Baixar Certificado](link-do-certificado)
+## 1. Sobre o Projeto
 
-### Tornando Páginas Web Interativas com JavaScript
-![Imagem do bootcamp](link-da-imagem)
-Curso: Tornando Páginas Web Interativas com JavaScript  
-Nível: Básico  
-Duração: 2 horas  
-[Baixar Certificado](link-do-certificado)
+A **Calculadora em React** foi desenvolvida para praticar os conceitos fundamentais de React, como componentes, estado, e estilização. O projeto recria a funcionalidade básica de uma calculadora, permitindo a realização de operações matemáticas simples como soma, subtração, multiplicação e divisão.
 
-### Entendendo a DOM (Document Object Model)
-![Imagem do bootcamp](link-da-imagem)
-Curso: Entendendo a DOM (Document Object Model)  
-Nível: Básico  
-Duração: 1 hora  
-[Baixar Certificado](link-do-certificado)
+## 2. Tecnologias Utilizadas
 
-### Primeiros Passos na Biblioteca React
-![Imagem do bootcamp](link-da-imagem)
-Curso: Primeiros Passos na Biblioteca React  
-Nível: Básico  
-Duração: 1 hora  
-[Baixar Certificado](link-do-certificado)
+- **React**: Biblioteca JavaScript para a criação de interfaces de usuário.
+- **JavaScript (ES6+)**: Linguagem de programação para implementar a lógica da aplicação.
+- **CSS**: Para estilização dos componentes.
+- **HTML5**: Estrutura básica da página.
+  
+## 3. Como Executar o Projeto
 
-### Desafio de Código - Formação React Developer
-![Imagem do bootcamp](link-da-imagem)
-Desafio de código: Desafio de Código - Formação React Developer  
-Nível: Básico  
-Duração: 1 hora  
+Para rodar o projeto localmente, siga os seguintes passos:
 
-### Criando Uma Calculadora Com React
-![Imagem do bootcamp](link-da-imagem)
-Desafio de projeto: Criando Uma Calculadora Com React  
-Nível: Básico  
-Duração: 1 hora  
+### Pré-requisitos:
+- Node.js instalado
+- Gerenciador de pacotes npm (ou yarn)
 
-## Estrutura do Projeto
+### Passo a passo:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER.git
+    ```
+
+2. Navegue até o diretório da calculadora:
+    ```bash
+    cd DIO_FORMACAO_REACT_DEVELOPER/desafio01-calculadora
+    ```
+
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+4. Inicie o projeto:
+    ```bash
+    npm start
+    ```
+
+5. Acesse o projeto no navegador:
+    ```
+    http://localhost:3000
+    ```
+
+## 4. Funcionalidades
+
+- Realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+- Interface intuitiva com botões numéricos e de operação.
+- Visor que exibe as operações e resultados.
+
+## 5. Estrutura do Projeto
+
+A estrutura do projeto segue a organização de componentes do React:
+
+
+
 
 ```
 Calculadora/
@@ -95,5 +110,4 @@ Calculadora/
 ├── package-lock.json
 ├── package.json
 └── README.md
-```
 ```
