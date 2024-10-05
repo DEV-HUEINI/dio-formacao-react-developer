@@ -1,11 +1,6 @@
 ## >_ Hueini David /?
 
-<<<<<<< HEAD
-
-# Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas
-=======
 Olá meu nome é Hueini David,
->>>>>>> b5d9ede1a586b3160f28b788b9e47384d889f03a
 
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
