@@ -1,5 +1,3 @@
-// src\App.js
-
 import { ContainerGeneral, ContainerCalculator } from './styles'; // Importa o ContainerTeclado do styles.js
 import { useState } from 'react';
 
@@ -10,106 +8,114 @@ const App = () => {
   const [currentNumber, setCurrentNumber] = useState('0');
   const [firstNumber, setFirstNumber] = useState('0');
   const [operation, setOperation] = useState('');
+  const [expression, setExpression] = useState(''); // Armazena a expressão completa
+  const [isOperationPressed, setIsOperationPressed] = useState(false);
+  const [isResultDisplayed, setIsResultDisplayed] = useState(false);
 
   const handleOnClear = () => {
     setCurrentNumber('0');
     setFirstNumber('0');
     setOperation('');
-  };
-  
-  const handleBackspace = () => {
-    setCurrentNumber(prev => prev.length > 1 ? prev.slice(0, -1) : '0');
+    setExpression(''); // Limpa a expressão
+    setIsOperationPressed(false);
+    setIsResultDisplayed(false);
   };
 
-  const handleAddNumber = (num) => {
+  const handleBackspace = () => {
+    // Remover o último caractere do número atual
     setCurrentNumber(prev => {
-      // Verifica se o número atual é '0' e o número adicionado é diferente de '.'
-      if (prev === '0' && num !== '.') {
-        return num; // Se for, apenas substitui por num
+      if (prev.length > 1) {
+        return prev.slice(0, -1); // Remove o último caractere
+      } else {
+        return '0'; // Se só restar um caractere, volta a ser '0'
       }
-  
-      // Se o número atual já tiver um ponto, não permite adicionar outro
-      if (prev.includes('.') && num === '.') {
-        return prev; // Retorna o número atual sem alterações
+    });
+
+    // Remover o último caractere da expressão acumulada, se a expressão não estiver vazia
+    setExpression(prev => {
+      if (prev.length > 1) {
+        return prev.slice(0, -1); // Remove o último caractere
+      } else {
+        return ''; // Se só restar um caractere, limpa a expressão
       }
-  
-      return `${prev}${num}`; // Caso padrão: concatena o número
     });
   };
 
-  const handleSumNumbers = () => {
-    if (firstNumber === '0') {
-      setFirstNumber(String(currentNumber));
-      setCurrentNumber('');
-      setOperation('+');
+  const handleAddNumber = (num) => {
+    if (isResultDisplayed) {
+      // Se o resultado foi exibido, limpa tudo e começa nova operação
+      setCurrentNumber(num);
+      setExpression(num); // Inicia a nova expressão com o número
+      setIsResultDisplayed(false);
+    } else if (isOperationPressed) {
+      // Se uma operação foi pressionada, zera o visor e adiciona o novo número
+      setCurrentNumber(num);
+      setIsOperationPressed(false);
+      setExpression(prev => `${prev}${num}`); // Continua acumulando a expressão
     } else {
-      const sum = Number(firstNumber) + Number(currentNumber);
-      setCurrentNumber(String(sum));
-      setOperation('');
+      setCurrentNumber(prev => {
+        if (prev === '0' && num !== '.') {
+          return num;
+        }
+        if (prev.includes('.') && num === '.') {
+          return prev;
+        }
+        return `${prev}${num}`;
+      });
+      setExpression(prev => `${prev}${num}`); // Continua acumulando a expressão
     }
   };
 
-  const handleSubNumbers = () => {
-    if (firstNumber === '0') {
-      setFirstNumber(String(currentNumber));
-      setCurrentNumber('');
-      setOperation('-');
-    } else {
-      const sub = Number(firstNumber) - Number(currentNumber);
-      setCurrentNumber(String(sub));
-      setOperation('');
+  const handleOperation = (op) => {
+    if (!isOperationPressed) {
+      setFirstNumber(currentNumber);
+      setOperation(op);
+      setIsOperationPressed(true);
+      setExpression(prev => `${prev} ${op} `); // Adiciona a operação à expressão
     }
   };
-  
-  const handleDivNumbers = () => {
-    if (firstNumber === '0') {
-      setFirstNumber(String(currentNumber));
-      setCurrentNumber('');
-      setOperation('/');
-    } else {
-      const divi = Number(firstNumber) / Number(currentNumber);
-      setCurrentNumber(String(divi));
-      setOperation('');
-    }
-  };
-  
-  const handleMultNumbers = () => {
-    if (firstNumber === '0') {
-      setFirstNumber(String(currentNumber));
-      setCurrentNumber('');
-      setOperation('*');
-    } else {
-      const mult = Number(firstNumber) * Number(currentNumber);
-      setCurrentNumber(String(mult));
-      setOperation('');
-    }
-  };
+
+  const handleSumNumbers = () => handleOperation('+');
+  const handleSubNumbers = () => handleOperation('-');
+  const handleDivNumbers = () => handleOperation('/');
+  const handleMultNumbers = () => handleOperation('*');
 
   const handleEquals = () => {
     if (firstNumber !== '0' && operation !== '' && currentNumber !== '0') {
+      let result;
       switch (operation) {
         case '+':
-          handleSumNumbers();
+          result = Number(firstNumber) + Number(currentNumber);
           break;
         case '-':
-          handleSubNumbers();
+          result = Number(firstNumber) - Number(currentNumber);
           break;
         case '/':
-          handleDivNumbers();
+          result = Number(firstNumber) / Number(currentNumber);
           break;
         case '*':
-          handleMultNumbers();
+          result = Number(firstNumber) * Number(currentNumber);
           break;
         default:
-          break;
+          return;
       }
+
+      // Atualiza o visor para mostrar apenas o resultado
+      setCurrentNumber(String(result));
+      setExpression(`${expression} = ${result}`); // Exibe a operação completa
+      setFirstNumber('0');
+      setOperation('');
+      setIsResultDisplayed(true);
     }
   };
 
   return (
     <ContainerGeneral>
       <ContainerCalculator>
-        <Visor value={currentNumber} />
+        
+        {/* Exibe a expressão acumulada até o momento */}
+        <Visor value={expression || currentNumber} />
+        
         <Teclado
           handleAddNumber={handleAddNumber}
           handleOnClear={handleOnClear}
@@ -120,6 +126,7 @@ const App = () => {
           handleMultNumbers={handleMultNumbers}
           handleEquals={handleEquals}
         />
+        
       </ContainerCalculator>
     </ContainerGeneral>
   );
