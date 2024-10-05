@@ -1,3 +1,8 @@
+
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Hueini David /? -->
+<!-- ################################################################################################################################################################################################# -->
+
 ## >_ Hueini David /?
 
 Olá meu nome é Hueini David,
@@ -5,6 +10,12 @@ Olá meu nome é Hueini David,
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento. Espero que goste e fique à vontade para entrar em contato comigo...
+
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Conecte-se comigo -->
+<!-- ################################################################################################################################################################################################# -->
+
+## >_ Conecte-se comigo
 
 <div style="display: inline-flex; gap: 10px; align-items: center;">
 🌐 
@@ -27,6 +38,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@DEV-HUEINI)
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-HUEINI)
 [![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
+
 
 
 ## >_ Calculadora em React
