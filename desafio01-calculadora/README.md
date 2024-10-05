@@ -1,33 +1,56 @@
+## >_ Hueini David /?
 
+<<<<<<< HEAD
 
 # Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas
+=======
+Olá meu nome é Hueini David,
+>>>>>>> b5d9ede1a586b3160f28b788b9e47384d889f03a
 
-Olá, meu nome é Hueini David.
+Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
-Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
+Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento. Espero que goste e fique à vontade para entrar em contato comigo...
 
-Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes na AWS" da DIO em parceria com a Amazon AWS.
+<div style="display: inline-flex; gap: 10px; align-items: center;">
+🌐 
+<a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
+<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">www.hueini.com.br</span>
+</a>
+  
+<br>
 
-# Calculadora em React
+<img src="https://raw.githubusercontent.com/Hueini/images/261e2442dcb9c43f7add7817c505e52e60703b28/dio.svg" alt="DIO" style="height: 12px; margin-right: 8px; ">
+<a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
+<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">DIO Hueini Profile</span>
+</a>
+ 
+</div>
 
-Projeto desenvolvido para o curso da DIO - Formação React Developer, onde foi utilizado o React e conceitos de desenvolvimento web, como parte do curso da **DIO - Formação React Developer**. 
+<br>
 
-![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/tree/main/desafio01-calculadora/public/Calculadora.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hueini-david-917b7230b)
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@DEV-HUEINI)
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-HUEINI)
+[![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
 
-## Aprendizados
 
+## >_ Calculadora em React
 
+Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
+
+![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
 
 ## Índice
+
 <details open>
-  <summary>Clique para expandir</summary>
-  <ul>
-    <li><a href="#sobre-o-projeto">1. Sobre o Projeto</a></li>
-    <li><a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a></li>
-    <li><a href="#como-executar-o-projeto">3. Como Executar o Projeto</a></li>
-    <li><a href="#funcionalidades">4. Funcionalidades</a></li>
-    <li><a href="#estrutura-do-projeto">5. Estrutura do Projeto</a></li>
-  </ul>
+  <summary><h2>Índice</h2></summary>
+  <table>
+    <tr><td>1.</td><td> <a href="#sobre-o-projeto">1. Sobre o Projeto</a> </td></tr>
+    <tr><td>2.</td><td> <a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a> </td></tr>
+    <tr><td>3.</td><td> <a href="#como-executar-o-projeto">3. Como Executar o Projeto</a> </td></tr>
+    <tr><td>4.</td><td> <a href="#funcionalidades">4. Funcionalidades</a> </td></tr>
+    <tr><td>5.</td><td> <a href="#estrutura-do-projeto">5. Estrutura do Projeto</a> </td></tr>
+  </table>
 </details>
 
 ## 1. Sobre o Projeto
