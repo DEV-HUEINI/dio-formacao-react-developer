@@ -9,8 +9,12 @@ header {
 }
 
 h1 {
-    font-family: 'Inter, Roboto, Arial';
+    /* font-family: 'Inter, Roboto, Arial';
     font-size: 24px;
-    Color: #FFFFFF;
+    Color: #FFFFFF; */
+    font-size: 32px;
+    color: #FFFFFF; 
+    margin: 12px 0;
+    text-align: center;
 }
 
