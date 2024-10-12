@@ -1,3 +1,17 @@
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Titulo -->
+<!-- ################################################################################################################################################################################################# -->
+
+<div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
+
+<h1 align="center" style="color: #1e52cc; align-items: center;">
+  <img src="https://github.com/Hueini/images/blob/main/HD.PNG?raw=true" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+  Hueini David
+</h1>
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Hueini David /? -->
+<!-- ################################################################################################################################################################################################# -->
+
 ## >_ Hueini David /?
 
 Olá meu nome é Hueini David,
@@ -5,6 +19,12 @@ Olá meu nome é Hueini David,
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento. Espero que goste e fique à vontade para entrar em contato comigo...
+
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Conecte-se comigo -->
+<!-- ################################################################################################################################################################################################# -->
+
+## >_ Conecte-se comigo
 
 <div style="display: inline-flex; gap: 10px; align-items: center;">
 🌐 
@@ -29,11 +49,13 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 [![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
 
 
+
 ## >_ Calculadora em React
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
 
-![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)
+[![Imagem da Calculadora](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png?raw=true)](https://react-calculadora.hueini.com.br/)
+
 
 ## Índice
 
