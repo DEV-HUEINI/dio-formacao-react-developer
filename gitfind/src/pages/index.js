@@ -2,8 +2,8 @@ import './styles.css'
 import { useState } from 'react'
 
 // import { Header } from '../../components/Header' //sem Export Defaul {} é necessário
-import imgbackground from '../../assets/imgbackground.png'
-import ItemList from '../../components/ItemList'
+import imgbackground from '../assets/imgbackground.png'
+import ItemList from '../components/ItemList'
 
 
 

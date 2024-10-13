@@ -58,12 +58,9 @@ Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi
 
 
 
-
-
 ## Índice
 
 <details open>
-  <summary><h2>Índice</h2></summary>
   <table>
     <tr><td>1.</td><td> <a href="#sobre-o-projeto">1. Sobre o Projeto</a> </td></tr>
     <tr><td>2.</td><td> <a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a> </td></tr>
@@ -75,7 +72,7 @@ Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi
 
 ## 1. Sobre o Projeto
 
-A **Calculadora em React** foi desenvolvida para praticar os conceitos fundamentais de React, como componentes, estado, e estilização. O projeto recria a funcionalidade básica de uma calculadora, permitindo a realização de operações matemáticas simples como soma, subtração, multiplicação e divisão.
+O **GitFind** é um projeto desenvolvido para o curso **DIO - Formação React Developer**, com o objetivo de praticar os conceitos fundamentais de React, como componentes, estado, e consumo de APIs. O projeto permite buscar perfis de usuários no GitHub e exibir informações detalhadas sobre eles.
 
 ## 2. Tecnologias Utilizadas
 
@@ -83,7 +80,9 @@ A **Calculadora em React** foi desenvolvida para praticar os conceitos fundament
 - **JavaScript (ES6+)**: Linguagem de programação para implementar a lógica da aplicação.
 - **CSS**: Para estilização dos componentes.
 - **HTML5**: Estrutura básica da página.
-  
+- **Axios**: Biblioteca para fazer requisições HTTP.
+- **GitHub API**: API utilizada para buscar informações dos perfis de usuários.
+
 ## 3. Como Executar o Projeto
 
 Para rodar o projeto localmente, siga os seguintes passos:
@@ -99,9 +98,9 @@ Para rodar o projeto localmente, siga os seguintes passos:
     git clone https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER.git
     ```
 
-2. Navegue até o diretório da calculadora:
+2. Navegue até o diretório do GitFind:
     ```bash
-    cd DIO_FORMACAO_REACT_DEVELOPER/desafio01-calculadora
+    cd DIO_FORMACAO_REACT_DEVELOPER/gitfind
     ```
 
 3. Instale as dependências:
@@ -121,34 +120,43 @@ Para rodar o projeto localmente, siga os seguintes passos:
 
 ## 4. Funcionalidades
 
-- Realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
-- Interface intuitiva com botões numéricos e de operação.
-- Visor que exibe as operações e resultados.
+- Buscar perfis de usuários no GitHub.
+- Exibir informações detalhadas sobre os usuários, como repositórios, seguidores e seguindo.
+- Interface intuitiva com campo de busca e exibição de resultados.
 
 ## 5. Estrutura do Projeto
 
 A estrutura do projeto segue a organização de componentes do React:
 
-
-
-
 ```
-Calculadora/
+GitFind/
 │
 ├── node_modules/
 ├── public/
+│   ├── index.html
+│   └── assets/
+│       └── gitfind.png
 ├── src/
-│   ├── components/
-│   │   ├── Teclado/
-│   │   │   ├── index.js
-│   │   │   └── styles.js
-│   │   ├── Visor/
-│   │       ├── index.js
-│   │       └── styles.js
-│   ├── App.js
-│   ├── global.js
-│   ├── index.js
-│   └── style.js
+│   └── components/
+|          ├── assets/
+|          |      |
+|          |      └── imgbackground.png
+|          |      
+|          ├── components/
+|          |        |
+|          |        ├── Header/
+|          |        |     ├── index.js
+|          |        |     └── styles.css
+|          |        |
+|          |        └── ItemList
+|          |              ├── index.js
+|          |              └── styles.css
+|          └── pages/
+|                 └── Home
+|                       ├── index.js
+|                       └── styles.css
+|
+|
 ├── .gitignore
 ├── package-lock.json
 ├── package.json
