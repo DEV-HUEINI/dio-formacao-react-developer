@@ -59,6 +59,11 @@ Projeto desenvolvido para o curso **DIO - Formação React Developer**, permite 
 - Repositórios: https://api.github.com/users/DEV-HUEINI/repos  
 
 ## >_Imagem do Projeto
+
+<!-- Botao 1 -->
+[![Visite o Projeto em Meu Site](https://img.shields.io/badge/-Visite%20O%20Projeto%20Em%20Meu%20Site-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://gitfind.hueini.com.br/#inicio)
+  
+
 [![GitFind](https://raw.githubusercontent.com/DEV-HUEINI/dio-formacao-react-developer/refs/heads/main/gitfind/public/assets/gitfind.png)](https://gitfind.hueini.com.br/#inicio)
 
 
