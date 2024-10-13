@@ -54,7 +54,13 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, permite consultar Usuários e retornar Repositórios do GitHub através de APIs integradas ao React. 
 
+## >_APIs do GitHub Utilizadas
+- Usuário: https://api.github.com/users/DEV-HUEIN
+- Repositórios: https://api.github.com/users/DEV-HUEINI/repos  
+
+## >_Imagem do Projeto
 ![GitFind](https://raw.githubusercontent.com/DEV-HUEINI/dio-formacao-react-developer/refs/heads/main/gitfind/public/assets/gitfind.png)
+
 
 
 
