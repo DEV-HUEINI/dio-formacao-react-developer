@@ -1,70 +1,155 @@
-# Getting Started with Create React App
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Titulo -->
+<!-- ################################################################################################################################################################################################# -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
-## Available Scripts
+<h1 align="center" style="color: #1e52cc; align-items: center;">
+  <img src="https://github.com/Hueini/images/blob/main/HD.PNG?raw=true" alt="Imagem Circular" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+  Hueini David
+</h1>
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Hueini David /? -->
+<!-- ################################################################################################################################################################################################# -->
 
-In the project directory, you can run:
+## >_ Hueini David /?
 
-### `npm start`
+Olá meu nome é Hueini David,
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento. Espero que goste e fique à vontade para entrar em contato comigo...
 
-### `npm test`
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Conecte-se comigo -->
+<!-- ################################################################################################################################################################################################# -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## >_ Conecte-se comigo
 
-### `npm run build`
+<div style="display: inline-flex; gap: 10px; align-items: center;">
+🌐 
+<a href="https://hueini.com.br" target="_blank" style="text-decoration: none;">
+<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">www.hueini.com.br</span>
+</a>
+  
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="https://raw.githubusercontent.com/Hueini/images/261e2442dcb9c43f7add7817c505e52e60703b28/dio.svg" alt="DIO" style="height: 12px; margin-right: 8px; ">
+<a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
+<span style="display: inline-flex; align-items: center; background-color: #000; color: white; padding: 6px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">DIO Hueini Profile</span>
+</a>
+ 
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hueini-david-917b7230b)
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@DEV-HUEINI)
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-HUEINI)
+[![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## >_ Calculadora em React
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[![Imagem da Calculadora](https://raw.githubusercontent.com/DEV-HUEINI/dio-formacao-react-developer/main/calculadora/public/assets/Calculadora.png)](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Índice
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<details open>
+  <summary><h2>Índice</h2></summary>
+  <table>
+    <tr><td>1.</td><td> <a href="#sobre-o-projeto">1. Sobre o Projeto</a> </td></tr>
+    <tr><td>2.</td><td> <a href="#tecnologias-utilizadas">2. Tecnologias Utilizadas</a> </td></tr>
+    <tr><td>3.</td><td> <a href="#como-executar-o-projeto">3. Como Executar o Projeto</a> </td></tr>
+    <tr><td>4.</td><td> <a href="#funcionalidades">4. Funcionalidades</a> </td></tr>
+    <tr><td>5.</td><td> <a href="#estrutura-do-projeto">5. Estrutura do Projeto</a> </td></tr>
+  </table>
+</details>
 
-### Analyzing the Bundle Size
+## 1. Sobre o Projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+A **Calculadora em React** foi desenvolvida para praticar os conceitos fundamentais de React, como componentes, estado, e estilização. O projeto recria a funcionalidade básica de uma calculadora, permitindo a realização de operações matemáticas simples como soma, subtração, multiplicação e divisão.
 
-### Making a Progressive Web App
+## 2. Tecnologias Utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **React**: Biblioteca JavaScript para a criação de interfaces de usuário.
+- **JavaScript (ES6+)**: Linguagem de programação para implementar a lógica da aplicação.
+- **CSS**: Para estilização dos componentes.
+- **HTML5**: Estrutura básica da página.
+  
+## 3. Como Executar o Projeto
 
-### Advanced Configuration
+Para rodar o projeto localmente, siga os seguintes passos:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Pré-requisitos:
+- Node.js instalado
+- Gerenciador de pacotes npm (ou yarn)
 
-### Deployment
+### Passo a passo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER.git
+    ```
 
-### `npm run build` fails to minify
+2. Navegue até o diretório da calculadora:
+    ```bash
+    cd DIO_FORMACAO_REACT_DEVELOPER/desafio01-calculadora
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+4. Inicie o projeto:
+    ```bash
+    npm start
+    ```
+
+5. Acesse o projeto no navegador:
+    ```
+    http://localhost:3000
+    ```
+
+## 4. Funcionalidades
+
+- Realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+- Interface intuitiva com botões numéricos e de operação.
+- Visor que exibe as operações e resultados.
+
+## 5. Estrutura do Projeto
+
+A estrutura do projeto segue a organização de componentes do React:
+
+
+
+
+```
+Calculadora/
+│
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Teclado/
+│   │   │   ├── index.js
+│   │   │   └── styles.js
+│   │   ├── Visor/
+│   │       ├── index.js
+│   │       └── styles.js
+│   ├── App.js
+│   ├── global.js
+│   ├── index.js
+│   └── style.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
+```
