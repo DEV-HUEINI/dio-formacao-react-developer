@@ -1,46 +1,70 @@
-.conteudo {
-    position: relative;
-    
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-end;
+* {
+    box-sizing: border-box; /* Garante que padding e border sejam incluídos na largura total dos elementos */
+    margin: 0;
+    padding: 0;
+
 }
 
-.background {
+.conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    margin: 0 auto; /* Margem vertical removida */
+    padding: 0px; /* Ajuste o valor conforme necessário */
+    max-width: 1200px;
+    width: 100%; /* Garante que o conteúdo ocupe toda a largura disponível */
+}
+
+.imgbackground {
     height: 100vh;
-    position:absolute;
-    left: 0;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%; /* Reduz a largura para 80% */
+    z-index: -1;
+    object-fit: cover;
 }
 
 .info {
     width: 60%;
-    margin-right: 90px;
+
     margin-top: 40px;
     color: #FFFFFF;
+    z-index: 2;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column; /* Organiza o input e o botão em colunas */
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+    gap: 10px; /* Adiciona um espaço entre o input e o botão */
 }
 
 input {
     border: 1px solid #999999;
     border-radius: 22px;
     color: #FFFFFF;
-    min-width: 250px;
-    width: 80%;
-    margin-right: 12px;  
     background-color: transparent;
     font-size: 18px;
     padding: 10px;
+    width: 100%; /* Faz o input ocupar toda a largura do contêiner */
 }
 
 button {
     border: 1px solid #999999;
     border-radius: 22px;
-
-    margin-right: 12px;  
     background: #2D333B;
-    color:#FFFFFF;
+    color: #FFFFFF;
     font-size: 18px;
     padding: 10px;
+    width: 100%; /* Faz o botão ocupar toda a largura do contêiner */
+    margin-top: 10px
 }
+
 
 .perfil {
     display: flex;
@@ -81,3 +105,24 @@ button {
     text-align: center;
 }
 
+/* Ajuste para telas menores */
+@media (max-width: 768px) {
+    .conteudo {
+        flex-direction: column; /* Coloca os itens um embaixo do outro */
+    }
+
+    .perfil {
+        flex-direction: column; /* Coloca o perfil em coluna */
+        align-items: center; /* Centraliza os itens */
+        text-align: center;
+    }
+
+    .profile {
+        margin: 0 0 20px 0; /* Remove o margin-right e ajusta o espaçamento inferior */
+    }
+
+    .info {
+        width: 100%; /* Faz o bloco de informações ocupar toda a largura */
+        text-align: center;
+    }
+}

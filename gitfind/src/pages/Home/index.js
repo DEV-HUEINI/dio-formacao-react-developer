@@ -2,7 +2,7 @@ import './styles.css'
 import { useState } from 'react'
 
 // import { Header } from '../../components/Header' //sem Export Defaul {} é necessário
-import background from '../../assets/background.png'
+import imgbackground from '../../assets/imgbackground.png'
 import ItemList from '../../components/ItemList'
 
 
@@ -35,9 +35,11 @@ function App() {
       {/* <Header /> */}
         <div className="conteudo">
         
-          <img className="background" src={background} alt="background" />
+        <img className="imgbackground" src={imgbackground} alt="imgbackground" />
           
           <div className="info" >
+          
+          
           
             <div>
               
