@@ -52,7 +52,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## >_ Calculadora em React
 
-Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
+Projeto desenvolvido para o curso **DIO - Formação React Developer**, permite consultar Usuários e retornar Repositórios do GitHub através de APIs integradas ao React. 
 
 ![GitFind](https://raw.githubusercontent.com/DEV-HUEINI/dio-formacao-react-developer/refs/heads/main/gitfind/public/assets/gitfind.png)
 
