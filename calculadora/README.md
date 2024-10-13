@@ -54,6 +54,11 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, onde foi utilizado o Framework React e conceitos de desenvolvimento web. 
 
+
+<!-- Botao 1 -->
+[![Visite o Projeto em Meu Site](https://img.shields.io/badge/-Visite%20O%20Projeto%20Em%20Meu%20Site-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://calculadora.hueini.com.br/)
+  
+
 [![Imagem da Calculadora](https://raw.githubusercontent.com/DEV-HUEINI/dio-formacao-react-developer/main/calculadora/public/assets/Calculadora.png)](https://github.com/DEV-HUEINI/DIO_FORMACAO_REACT_DEVELOPER/blob/main/desafio01-calculadora/public/assets/Calculadora.png)
 
 
