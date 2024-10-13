@@ -50,7 +50,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 
 
-## >_ GitFind - Busca de Usuários e Retorno de Repositórios
+## >_ GitFind - Busca por Usuários através de APIs do GitHub
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, permite consultar Usuários e retornar Repositórios do GitHub através de APIs integradas ao React. 
 
