@@ -50,15 +50,12 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 
 
-## >_ Calculadora em React
+## >_ GitFind - Busca de Usuários e Retorno de Repositórios
 
 Projeto desenvolvido para o curso **DIO - Formação React Developer**, permite consultar Usuários e retornar Repositórios do GitHub através de APIs integradas ao React. 
 
-## >_APIs do GitHub Utilizadas
-- Usuário: https://api.github.com/users/DEV-HUEIN
-- Repositórios: https://api.github.com/users/DEV-HUEINI/repos  
-
-## >_Imagem do Projeto
+- API de Usuário: https://api.github.com/users/DEV-HUEIN
+- API de Repositórios: https://api.github.com/users/DEV-HUEINI/repos  
 
 <!-- Botao 1 -->
 [![Visite o Projeto em Meu Site](https://img.shields.io/badge/-Visite%20O%20Projeto%20Em%20Meu%20Site-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://gitfind.hueini.com.br/#inicio)
